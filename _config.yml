@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Benjamin
 language: en
 timezone: ''
 
@@ -103,6 +103,6 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
    type: git
-   repo: https://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@github.com/benjamin666/benjamin666.github.io 
+   repo: https://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@github.com/benjamin666/benjamin666.github.io 
    branch: master
    message: Update Hexo Static Content # 你可以自定义此次部署更新的说明
